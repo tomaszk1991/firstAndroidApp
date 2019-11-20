@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PierwszaAppka</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="tomasz">Autor</string>
+    <string name="kubik">Kubik</string>
+    <string name="title_activity_tomasz">Tomaszy</string>
+    <string name="title_activity_weather">Pogoda</string>
+    <string name="weather">Pogoda</string>
+    <string name="author">Autorem tej aplikacji jest Tomasz Kubik. Powstaje ona w celu nauki programowania na platformie Android</string>
+    <string name="title_activity_calculator">Kalkulator</string>
+    <string name="calculator">Kalkulator</string>
+</resources>
