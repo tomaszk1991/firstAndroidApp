@@ -14,6 +14,24 @@ public class Calculator {
 
     public String onClick(View view, String calcResultString) {
 
+
+        switch (view.getId()){
+            case R.id.mcBtn:
+            case R.id.mPlusBtn:
+            case R.id.mMinusBtn:
+            case R.id.mrBtn:
+            case R.id.cBtn:
+            case R.id.eraseBtn:
+            case R.id.divideBtn:
+            case R.id.multiplyBtn:
+            case R.id.minusBtn:
+            case R.id.plusBtn:
+            case R.id.percentBtn:
+            case R.id.commaBtn:
+            case R.id.equalsBtn:
+        }
+
+
         if (calcResultString.length() < 15) {
             switch (view.getId()) {
 
